@@ -10,9 +10,9 @@
 /*===== Colores =====*/
 :root {
   --first-color: #87CEFA;
-  --white-color: #fafaff;
+  --white-color: #FFF;
   --dark-color: #142f22;
-  --text-color: #697477;
+  --text-color: #000;
   --fw-reg: 300;
   --fw-bold: 900;
 
@@ -444,7 +444,7 @@ img {
     display: none;
   }
   .nav__link {
-    color: var(--white-color);
+    color: #000;
   }
   .nav__link:hover {
     color: var(--white-color);
@@ -489,7 +489,6 @@ img {
   }
 
   .contact__container {
-    grid-template-columns: repeat(2, 1fr);
     justify-items: center;
     text-align: center;
   }
