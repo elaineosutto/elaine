@@ -91,7 +91,7 @@ a {
   color: var(--text-color);
 }
 img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   display: block;
 }
@@ -336,7 +336,7 @@ img {
 
 .contact__info {
   position: relative;
-  top: 100px;
+  top: 5x;
 }
 
 .contact__subtitle {
